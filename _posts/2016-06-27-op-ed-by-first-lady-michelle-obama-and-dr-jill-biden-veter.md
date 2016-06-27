@@ -28,11 +28,11 @@ isBasedOnUrl: >-
 title: >-
   Op-Ed by First Lady Michelle Obama and Dr. Jill Biden: Veterans With Job
   Skills America Needs
-datePublished: '2016-06-27T08:11:58.921Z'
-dateModified: '2016-06-27T08:03:18.314Z'
-starred: false
+datePublished: '2016-06-27T08:19:56.123Z'
+dateModified: '2016-06-27T08:19:55.657Z'
 sourcePath: >-
   _posts/2016-06-27-op-ed-by-first-lady-michelle-obama-and-dr-jill-biden-veter.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
