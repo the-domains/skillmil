@@ -1,0 +1,14 @@
+layout_spectrum: 0.32628600182943046
+typography_spectrum: 0.9275495391339064
+color:
+  brandStrength: 0.564039048505947
+  lightness: 0.6417817890178412
+  saturation: 0.2576196822337806
+  rhythmicContrast: 0.9594345036894083
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: SkillMil
